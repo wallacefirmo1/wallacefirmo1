@@ -1,6 +1,6 @@
 ### Opa, aqui é Wallace Firmo (wallacefirmo1) 👋
 
-📈 Estrategista em Implementação de Negócios Lucrativos.
+📈 Especialista em Estratégias de Diferenciação (com Foco no Lucro).
 
 👨‍💻 Cientista de Dados em Formação | Entusiasta de Machine Learning e Programação Python | Aprendendo Big Data
 

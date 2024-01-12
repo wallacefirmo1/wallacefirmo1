@@ -24,6 +24,10 @@
 
 [![RPA-Robotic-Process-Automation](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=RPA-Robotic-Process-Automation)](https://github.com/wallacefirmo1/RPA-Robotic-Process-Automation)
 
+[![rede-neural-para-classificacao-de-digitos-MNIST](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=rede-neural-para-classificacao-de-digitos-MNIST)](https://github.com/wallacefirmo1/rede-neural-para-classificacao-de-digitos-MNIST)
+
+[![RPA-automacao-de-mensagem-no-whatsapp](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=RPA-automacao-de-mensagem-no-whatsapp)](https://github.com/wallacefirmo1/RPA-automacao-de-mensagem-no-whatsapp)
+
 [![budget-generator](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=budget-generator)](https://github.com/wallacefirmo1/budget-generator)
 
 ### 🚀 Linguagens Mais Usadas

@@ -2,9 +2,9 @@
 
 📈 Especialista em Estratégias de Diferenciação (com Foco no Lucro).
 
-👨‍💻 Cientista de Dados em Formação | Entusiasta de Machine Learning e Programação Python | Aprendendo Big Data
+👨‍💻 Python | Ciência de Dados | Machine Learning | BI | IA
 
-👨🏽‍⚕️ Head of Trainer and Speaker no Instituto Wallace Firmo: [Soluções p/ Controlar a Ansiedade e Vencer a Procrastinação](taplink.cc/wallacefirmo1)
+👨🏽‍⚕️ Head of Trainer and Speaker no Instituto Wallace Firmo: [Especialista em Desenvolvimento Humano e Inteligência Emocional](taplink.cc/wallacefirmo1)
 
 ## Vamos nos conectar?
 [![Instagram](https://img.shields.io/badge/instagrams-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/wallacefirmo1/)

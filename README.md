@@ -20,6 +20,8 @@
 
 ### 📌 Projetos em Destaque
 
+[![analysis-of-flight-activity-data-and-customer-loyalty-history.](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=analysis-of-flight-activity-data-and-customer-loyalty-history.)](https://github.com/wallacefirmo1/analysis-of-flight-activity-data-and-customer-loyalty-history.)
+
 [![Data-Science-com-Python](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=Data-Science-com-Python)](https://github.com/wallacefirmo1/Data-Science-com-Python)
 
 [![RPA-Robotic-Process-Automation](https://github-readme-stats.vercel.app/api/pin/?username=wallacefirmo1&repo=RPA-Robotic-Process-Automation)](https://github.com/wallacefirmo1/RPA-Robotic-Process-Automation)
